@@ -1,25 +1,32 @@
 {
     "cuisines": [
         {
-            "id": "american"
+            "id": "american",
+            "name": "American"
         },
         {
-            "id": "italian"
+            "id": "italian",
+            "name": "Italian"
         },
         {
-            "id": "mexican"
+            "id": "mexican",
+            "name": "Mexican"
         },
         {
-            "id": "indian"
+            "id": "indian",
+            "name": "Indian"
         },
         {
-            "id": "thai"
+            "id": "thai",
+            "name": "Thai"
         },
         {
-            "id": "chinese"
+            "id": "chinese",
+            "name": "Chinese"
         },
         {
-            "id": "japanese"
+            "id": "japanese",
+            "name": "Japanese"
         }
     ]
 }
