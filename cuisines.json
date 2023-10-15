@@ -1,11 +1,25 @@
 {
     "cuisines": [
-        "american",
-        "italian",
-        "mexican",
-        "indian",
-        "thai",
-        "chinese",
-        "japanese"
+        {
+            "id": "american"
+        },
+        {
+            "id": "italian"
+        },
+        {
+            "id": "mexican"
+        },
+        {
+            "id": "indian"
+        },
+        {
+            "id": "thai"
+        },
+        {
+            "id": "chinese"
+        },
+        {
+            "id": "japanese"
+        }
     ]
 }
